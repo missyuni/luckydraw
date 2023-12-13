@@ -149,7 +149,7 @@ export default {
           position: absolute;
           left: 0;
           top: 0;
-          color: red;
+          color: #3FCA33;
         }
       }
     }
