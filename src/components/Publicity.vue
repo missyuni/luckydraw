@@ -77,7 +77,7 @@ export default {
     }
     &.actiname {
       .title {
-        color: red;
+        color: #3FCA33;
         font-size: 20px;
       }
     }
