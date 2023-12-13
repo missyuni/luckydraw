@@ -46,6 +46,8 @@
 - 建議使用最新的 Chrome 瀏覽器開啟體驗最佳。
 - 由於背景音樂載入較慢，可以在抽獎前提前打開快取好。 或安裝 windows 版本軟體到本地，無需聯網即可使用。
 
+## Source
+https://github.com/vitozyf/lucky-draw
 
 ## License
 
