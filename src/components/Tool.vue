@@ -346,7 +346,7 @@ export default {
 }
 .setwat-dialog {
   .colorred {
-    color: red;
+    color: #3FCA33;
     font-weight: bold;
   }
 }
